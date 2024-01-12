@@ -1,0 +1,182 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "B11_Account",
+            "request": "launch",
+            "mainClass": "B11_Account",
+            "projectName": "BankingApplicationProject_d64f6db5"
+        },
+        {
+            "type": "java",
+            "name": "B1_AdminFunction",
+            "request": "launch",
+            "mainClass": "B1_AdminFunction",
+            "projectName": "BankingApplicationProject_d64f6db5"
+        },
+        {
+            "type": "java",
+            "name": "C_UserLogin",
+            "request": "launch",
+            "mainClass": "C_UserLogin",
+            "projectName": "BankingApplicationProject_d64f6db5"
+        },
+        {
+            "type": "java",
+            "name": "Transection",
+            "request": "launch",
+            "mainClass": "Transection",
+            "projectName": "BankingApplicationProject_d64f6db5"
+        },
+        {
+            "type": "java",
+            "name": "A_Main",
+            "request": "launch",
+            "mainClass": "A_Main",
+            "projectName": "BankingApplicationProject_d64f6db5"
+        },
+        {
+            "type": "java",
+            "name": "Transection",
+            "request": "launch",
+            "mainClass": "Transection",
+            "projectName": "BankingApplication_d03ce47e"
+        },
+        {
+            "type": "java",
+            "name": "testmail",
+            "request": "launch",
+            "mainClass": "testmail",
+            "projectName": "BankingApplication_d03ce47e"
+        },
+        {
+            "type": "java",
+            "name": "EmailSender",
+            "request": "launch",
+            "mainClass": "EmailSender",
+            "projectName": "BankingApplication_d03ce47e"
+        },
+        {
+            "type": "java",
+            "name": "Mail",
+            "request": "launch",
+            "mainClass": "Mail",
+            "projectName": "BankingApplication_d03ce47e"
+        },
+        {
+            "type": "java",
+            "name": "TestOptionPane04",
+            "request": "launch",
+            "mainClass": "TestOptionPane04",
+            "projectName": "BankingApplication_d03ce47e"
+        },
+        {
+            "type": "java",
+            "name": "DAO",
+            "request": "launch",
+            "mainClass": "DAO",
+            "projectName": "BankingApplication_d03ce47e"
+        },
+        {
+            "type": "java",
+            "name": "test",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": "BankingApplication_d03ce47e"
+        },
+        {
+            "type": "java",
+            "name": "Updatedata",
+            "request": "launch",
+            "mainClass": "Updatedata",
+            "projectName": "BankingApplication_d03ce47e"
+        },
+        {
+            "type": "java",
+            "name": "OptionPaneExample",
+            "request": "launch",
+            "mainClass": "OptionPaneExample",
+            "projectName": "BankingApplication_d03ce47e"
+        },
+        {
+            "type": "java",
+            "name": "Particulerdata",
+            "request": "launch",
+            "mainClass": "Particulerdata",
+            "projectName": "BankingApplication_d03ce47e"
+        },
+        {
+            "type": "java",
+            "name": "TableExample",
+            "request": "launch",
+            "mainClass": "TableExample",
+            "projectName": "BankingApplication_d03ce47e"
+        },
+        {
+            "type": "java",
+            "name": "Getdata",
+            "request": "launch",
+            "mainClass": "Getdata",
+            "projectName": "BankingApplication_d03ce47e"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "A_Main",
+            "request": "launch",
+            "mainClass": "A_Main",
+            "projectName": "BankingApplication_d03ce47e"
+        },
+        {
+            "type": "java",
+            "name": "B11_Account",
+            "request": "launch",
+            "mainClass": "B11_Account",
+            "projectName": "BankingApplication_d03ce47e"
+        },
+        {
+            "type": "java",
+            "name": "B1_AdminFunction",
+            "request": "launch",
+            "mainClass": "B1_AdminFunction",
+            "projectName": "BankingApplication_d03ce47e"
+        },
+        {
+            "type": "java",
+            "name": "B_AdminLogin",
+            "request": "launch",
+            "mainClass": "B_AdminLogin",
+            "projectName": "BankingApplication_d03ce47e"
+        },
+        {
+            "type": "java",
+            "name": "C1_UserFunction",
+            "request": "launch",
+            "mainClass": "C1_UserFunction",
+            "projectName": "BankingApplication_d03ce47e"
+        },
+        {
+            "type": "java",
+            "name": "C_UserLogin",
+            "request": "launch",
+            "mainClass": "C_UserLogin",
+            "projectName": "BankingApplication_d03ce47e"
+        },
+        {
+            "type": "java",
+            "name": "Demo",
+            "request": "launch",
+            "mainClass": "Demo",
+            "projectName": "BankingApplication_d03ce47e"
+        }
+    ]
+}
